@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm working as a intern on digitelex solutions, Haidrabad
+I'm Computer Engineering student on Finel Year
+I'm working as a Software engineer intern on digitelex solutions, Haidrabad
 
 
 ## 🌐 Socials:
