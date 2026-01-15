@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Computer Engineering student on Finel Year
+I'm Computer Engineering student on Finel Year <br/>
 I'm working as a Software engineer intern on digitelex solutions, Haidrabad
 
 
