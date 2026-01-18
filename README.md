@@ -75,12 +75,12 @@
 
 ## 📈 GitHub Analytics
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=Dwarkesh-khairnar&show_icons=true&theme=vue-dark" height="165"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dwarkesh-khairnar&theme=vue-dark" height="165"/>
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarkesh-khairnar&layout=compact&theme=vue-dark"/>
 </p>
 
