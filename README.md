@@ -26,9 +26,8 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Dwarkesh-khairnar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com/in/Dwarkesh-khairnar"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+</a>
   <a href="https://bsky.app/profile/Dwarkesh-khairnar">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
   </a>
@@ -49,22 +48,22 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
 
 ### 🚀 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/Git-F05010?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
