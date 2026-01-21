@@ -66,7 +66,7 @@
 ![Git](https://img.shields.io/badge/Git-F05010?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify)
 
