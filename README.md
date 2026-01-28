@@ -28,12 +28,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/Dwarkesh-khairnar"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 </a>
-  <a href="https://bsky.app/profile/Dwarkesh-khairnar">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
-  </a>
-  <a href="https://behance.net/Dwarkesh">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/>
-  </a>
   <a href="https://reddit.com/user/Dwarkesh_">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
