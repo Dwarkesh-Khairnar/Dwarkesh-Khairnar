@@ -65,19 +65,20 @@
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify)
 
 ---
-
+<!--
 ## 📈 GitHub Analytics
 
-<p align="start">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Dwarkesh-khairnar&show_icons=true&theme=vue-dark" height="165"/> -->
+ <p align="start">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Dwarkesh-khairnar&show_icons=true&theme=vue-dark" height="165"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dwarkesh-khairnar&theme=vue-dark" height="165"/>
-</p>
+<!-- </p> 
 
 <p align="start">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarkesh-khairnar&layout=compact&theme=vue-dark"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarkesh-khairnar&layout=compact&theme=vue-dark"/> 
 </p>
 
 ---
+-->
 
 ## ✨ Motto
 
