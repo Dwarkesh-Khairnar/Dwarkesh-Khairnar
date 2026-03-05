@@ -13,7 +13,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 - 🎓 Final Year **Computer Engineering** student  
 - 💼 **Software Engineer Intern** at **Digitelex Solutions, Hyderabad**
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/Dwarkesh-khairnar"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
@@ -35,9 +35,9 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
-### 🌐 Frontend
+###  Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
@@ -45,18 +45,18 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap)
 
-### ⚙️ Backend
+###  Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
 
-### 🗄️ Databases
+###  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🚀 Tools & DevOps
+###  Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05010?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab)
