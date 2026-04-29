@@ -15,7 +15,7 @@
 
 ##  About Me
 
-- 🎓 Final Year **Computer Engineering** student  
+- 🎓 Final Year **Computer Engineering** 8th sem student  
 - 💼 **Software Engineer Intern** at **Digitelex Solutions, Hyderabad**
 - 🌱 Currently focusing on **Backend APIs, Databases & Full-Stack Development**
 - 🚀 Passionate about building **real-world products**, not just assignments
