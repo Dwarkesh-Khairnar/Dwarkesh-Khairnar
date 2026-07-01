@@ -2,8 +2,17 @@
 <!--  Dwarkesh Khairnar 🚀  -->
 <!-- ======================= -->
 
-<h1 align="center">Hi 👋, I'm Dwarkesh Khairnar</h1>
-<h3 align="center">Final Year Computer Engineering Student | Software Engineer Intern</h3>
+
+<!-- ======================= WAVE HEADER: PREMIUM ORANGE ======================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff8c00,ff6b35,ff4500,ff7f50&height=300&section=header&text=Dwarkesh%20Khairnar&fontSize=80&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Software%20Engineer%20Intern&descSize=22&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=ff8c00&center=true&vCenter=true&width=700&lines=Building%20Scalable%20Web%20Apps;Backend%20APIs%20and%20Databases;Full%20Stack%20Development;Learning%20Every%20Day" alt="Typing animation" />
+</p>
+
 
 <p align="center">
   <em>
