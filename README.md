@@ -6,7 +6,7 @@
 <!-- ======================= WAVE HEADER: PREMIUM ORANGE ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff8c00,ff6b35,ff4500,ff7f50&height=300&section=header&text=Dwarkesh%20Khairnar&fontSize=80&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Software%20Engineer%20Intern&descSize=22&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&text=Dwarkesh%20Khairnar&fontSize=80&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Software%20Engineer%20Intern&descSize=22&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -102,3 +102,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dwarkesh-khairnar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlign=20&fontAlignY=34&fontSize=0&animation=twinkling&reversal=true&section=footer"/>
