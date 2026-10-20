@@ -27,7 +27,7 @@
 ---
 ##  About Me
 
-- 🎓 Final Year **Computer Engineering** 8th sem student  
+- 🎓 **Computer Engineering** graduate in 2026
 - 💼 **Full stack developer Intern** at **Motogen navyug, Ranchi, Jharkhand**
 - 🌱 Currently focusing on **Backend APIs, Databases & Full-Stack Development**
 - 🚀 Passionate about building **real-world products**, not just assignments
