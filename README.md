@@ -23,7 +23,7 @@
 ---
 
 ##  Experince
-  - 01 Years
+  - 1.3+ Years
 ---
 ##  About Me
 
